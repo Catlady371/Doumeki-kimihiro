@@ -1,0 +1,8 @@
+Game_name:baisi;
+Game_key:9c95d0a6a35e1f8;
+Title_img:1754581421880.png;
+Title_bgm:s_Title.mp3 -vocal= ä¾å­ã¯å¾®éæºå«.mp3;
+Textbox_theme:imss;
+Enable_Appreciation:true;
+Game_Logo:;
+Package_name:baisi-xianghe;
