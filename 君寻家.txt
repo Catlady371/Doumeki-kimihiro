@@ -1,0 +1,7 @@
+
+changeBg:MTXX_MH20250808_174101006.jpg;
+:四月一日家门口;
+changeFigure:1754646588768.png -left;
+changeFigure:1753628024343.png -right;
+:虽然十分不情愿，但是还是被送回家了，对方准备离开，四月一日想说——;
+choose:等一下:选择4.txt;

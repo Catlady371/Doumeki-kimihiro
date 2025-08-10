@@ -1,0 +1,18 @@
+bgm:åé£å¹æ.wav;
+changeBg:MTXX_MH20250808_174101006.jpg;
+changeFigure:1754646588768.png -left;
+changeFigure:1753628024343.png -right;
+百目鬼静:？;
+changeFigure:41.å¶æ.è¸çº¢.png -left;
+四月一日君寻:明天来我家，想吃什么我给你做，食材你自己带;
+changeFigure:none -right;
+:电话响了，是侑子小姐打来的;
+changeFigure:41.å¶æ.ä¸æ»¡.png;
+choose:接听:选择场景文件;
+壹原侑子:于是就和百目鬼同学打着相合伞回家，还请他吃了饭是吗？;
+四月一日君寻:侑子小姐！你怎么知道的？;
+:侑子神神秘秘地坏笑着;
+四月一日君寻:他毕竟淋雨了......不过也浇到我了;
+changeFigure:1754646588768.png -left;
+才没有调情呢！侑子小姐…...;
+end;
